@@ -4,6 +4,7 @@ GrammarSlammer! The app!
 Description:
 All too often, the masses on Facebook butcher the English language with terrible grammar. For those Facebook users who, like me, cringe upon seeing some incoherent version of English, this app provides a solution. The app scans your facebook homepage and transforms those grammatic tragedies into good ol' fashioned English.
 
+###### wait won't this lead to people on facebook with poor grammar being taken seriously? Have you considered the social implications of this? ######
 
 Some specifics:
 
@@ -22,6 +23,7 @@ Some specifics:
 Some possible difficulties:
 
 			1) Because of the lax grammatic nature of Facebook, some status updates may prove too challenging to even begin to understand and correct. A possible solution to this could be a simple warning message such as, "(Your name here), you are about to read something that will make you dumber if not properly prepared. Take precaution."
+			  *I like this idea!*
 
 			2) An app user could become a complete tool and drive all of his/her friends away with the incessant emails about minor grammatic mistakes. The solution here may be that a Facebook user must reach a certain level of grammatic error before the option to send a message occurs. For example, the Facebook user may have to reach Grammatic Murderer status, or the like.
 
